@@ -6,4 +6,4 @@ Permettre aux managers de mieux suivre l'état d'esprit des membres de son équi
 
 Le front du projet est développé en ReactJS avecc Material Tailwind comme librairie UX/UI. Et le back ainsi que l'ébergement a été entièrement fait sur Firebase (Authentification, Firestore, Hosting).
 
-Le projet déployé est accessible via ce lien : [eds-moodly.web.app](eds-moodly.web.app)
+Le projet déployé est accessible via ce lien : [eds-moodly.web.app](https://eds-moodly.web.app)
