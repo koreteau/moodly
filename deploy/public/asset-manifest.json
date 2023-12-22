@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.74036555.css",
+    "main.js": "/static/js/main.de037685.js",
+    "static/media/Moodly.svg": "/static/media/Moodly.1fef6b5f9cf98135cb2a997291eb23b8.svg",
+    "static/media/Moodly-long.svg": "/static/media/Moodly-long.a943636f74669c8b0785e3562b8c32eb.svg",
+    "index.html": "/index.html",
+    "main.74036555.css.map": "/static/css/main.74036555.css.map",
+    "main.de037685.js.map": "/static/js/main.de037685.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74036555.css",
+    "static/js/main.de037685.js"
+  ]
+}
